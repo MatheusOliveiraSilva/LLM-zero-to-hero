@@ -9,7 +9,3 @@ Below are some resources to deepen your understanding of embeddings:
 - **Contextual Embeddings**:
   - [The Illustrated BERT, ELMo, and Co.: A Visual Guide to NLP Models](https://jalammar.github.io/illustrated-bert/)
   - [Official BERT Paper (Devlin et al.)](https://arxiv.org/abs/1810.04805)
-
-- **Hugging Face Resources**:
-  - [Hugging Face Blog: NLP Guides](https://huggingface.co/blog/)
-  - [Hugging Face Model Hub](https://huggingface.co/)
