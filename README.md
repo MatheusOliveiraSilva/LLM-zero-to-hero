@@ -4,7 +4,7 @@ This repository is designed for individuals with a basic computer science backgr
 
 ---
 
-### Chapter 1: Fundamentals of NLP  
+### Chapter 1: Fundamentals of NLP  (path: tokenization/)
 **Concepts:**  
 - What is Natural Language Processing (NLP)?  
 - Basic tokenization (splitting by spaces, punctuation).  
@@ -19,7 +19,7 @@ This repository is designed for individuals with a basic computer science backgr
 - Implement tokenization, remove stopwords, and generate n-grams.  
 - Discuss how different languages and domains might require different preprocessing strategies.
 
-### Chapter 2: Modern Tokenization and Introduction to Embeddings  
+### Chapter 2: Modern Tokenization and Introduction to Embeddings  (path: tokenization/)
 **Concepts:**  
 - Subword tokenization methods (BPE, WordPiece) and their advantages over traditional word-based tokenization.  
 - Basic understanding of embeddings (no training needed yet, just conceptual).
@@ -33,7 +33,7 @@ This repository is designed for individuals with a basic computer science backgr
 - Examine how a pretrained model’s tokenizer splits a given text.  
 - Experiment with different texts and observe differences in tokenization granularity.
 
-### Chapter 3: Introduction to Transformers and Pre-Trained Models  
+### Chapter 3: Introduction to Transformers and Pre-Trained Models  (path: transformers/)
 **Concepts:**  
 - Transformer architecture basics (attention mechanisms, encoder-decoder structure).  
 - Introduction to pre-trained models (BERT, GPT-2, DistilGPT-2) and their common use cases.
@@ -125,7 +125,7 @@ This repository is designed for individuals with a basic computer science backgr
 - Consider the entire lifecycle of an LLM-based application.  
 - Understand how to ensure repeatability, maintainability, and scalability of your workflows.
 
-**Practical Exercises:**  
+**Practical Exercises:**
 - Choose a simple use case (e.g., generating domain-specific answers or custom classification).  
 - Build a small dataset, apply LoRA fine-tuning, and run inference.  
 - Document the entire pipeline, from data preparation to model evaluation, and record all decisions and outcomes.
